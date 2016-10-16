@@ -1,0 +1,1 @@
+# remove_saved_images_vk
